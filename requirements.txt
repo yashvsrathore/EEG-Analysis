@@ -1,0 +1,7 @@
+numpy 
+pandas
+mne
+torch
+scipy
+matplotlib
+streamlit
